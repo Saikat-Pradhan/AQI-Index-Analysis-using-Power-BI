@@ -1,4 +1,4 @@
-## AQI Index Analysis Dashboard
+# AQI Index Analysis Dashboard
 
 A complete Air Quality Index (AQI) Data Analysis & Visualization Dashboard built using 
 Excel (.xlsx) to analyze air pollution levels across Indian states and cities.
@@ -15,7 +15,7 @@ Pollutant contribution
 
 Air quality category distribution
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 📁 Dataset
 
@@ -31,7 +31,7 @@ Pollutant types (PM2.5, PM10, O3, NO2, CO, etc.)
 
 AQI values and categories
 
-# 🎯 Features
+## 🎯 Features
 
 ✔️ Interactive filters for:
 
@@ -65,7 +65,7 @@ Primary Pollutant
 
 Average AQI Category
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Microsoft Excel
 
@@ -77,7 +77,7 @@ Charts & Slicers
 
 Dashboard Design
 
-# 📈 Analysis Insights
+## 📈 Analysis Insights
 
 Delhi frequently falls under Very Unhealthy category
 
@@ -87,7 +87,7 @@ Winter months show higher AQI spikes
 
 NCR cities dominate the top polluted city list
 
-# 🚀 How to Use
+## 🚀 How to Use
 
 Download the repository
 
@@ -97,7 +97,7 @@ Go to the Dashboard sheet
 
 Use slicers (Year, State, Month, Area) to explore data interactively
 
-# 📌 Project Use Cases
+## 📌 Project Use Cases
 
 Data Analytics Portfolio Project
 
