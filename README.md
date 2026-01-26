@@ -7,15 +7,15 @@ Excel (.xlsx) to analyze air pollution levels across Indian states and cities.
 
 This project provides interactive insights into:
 
-State-wise AQI
+- State-wise AQI
 
-City-wise AQI
+- City-wise AQI
 
-Day-wise trends
+- Day-wise trends
 
-Pollutant contribution
+- Pollutant contribution
 
-Air quality category distribution
+- Air quality category distribution
 
 ## 📊 Dashboard Preview
 
@@ -25,89 +25,89 @@ File: day_wise_aqi_data.xlsx
 
 Contains:
 
-Date-wise AQI data
+- Date-wise AQI data
 
-State & city names
+- State & city names
 
-Pollutant types (PM2.5, PM10, O3, NO2, CO, etc.)
+- Pollutant types (PM2.5, PM10, O3, NO2, CO, etc.)
 
-AQI values and categories
+- AQI values and categories
 
 ## 🎯 Features
 
-✔️ Interactive filters for:
+i. Interactive filters for:
 
-Year
+- Year
 
-State
+- State
 
-Area
+- Area
 
-Month
+- Month
 
-✔️ Visualizations:
+ii. Visualizations:
 
-AQI Gauge (Current AQI)
+- AQI Gauge (Current AQI)
 
-AQI by State (Map)
+- AQI by State (Map)
 
-AQI by City (Bar Chart)
+- AQI by City (Bar Chart)
 
-AQI by Day (Line Chart)
+- AQI by Day (Line Chart)
 
-Pollutant Occurrence Frequency
+- Pollutant Occurrence Frequency
 
-Air Quality Status Ratio (Donut Chart)
+- Air Quality Status Ratio (Donut Chart)
 
-✔️ Key Metrics:
+iii. Key Metrics:
 
-Max AQI
+- Max AQI
 
-Primary Pollutant
+- Primary Pollutant
 
-Average AQI Category
+- Average AQI Category
 
 ## 🛠️ Tools Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables
+- Pivot Tables
 
-Power Query (if used)
+- Power Query (if used)
 
-Charts & Slicers
+- Charts & Slicers
 
-Dashboard Design
+- Dashboard Design
 
 ## 📈 Analysis Insights
 
-Delhi frequently falls under Very Unhealthy category
+- Delhi frequently falls under Very Unhealthy category
 
-PM2.5 and PM10 are the dominant pollutants
+- PM2.5 and PM10 are the dominant pollutants
 
-Winter months show higher AQI spikes
+- Winter months show higher AQI spikes
 
-NCR cities dominate the top polluted city list
+- NCR cities dominate the top polluted city list
 
 ## 🚀 How to Use
 
-Download the repository
+i. Download the repository
 
-Open day_wise_aqi_data.xlsx
+ii. Open day_wise_aqi_data.xlsx
 
-Go to the Dashboard sheet
+iii. Go to the Dashboard sheet
 
-Use slicers (Year, State, Month, Area) to explore data interactively
+iv. Use slicers (Year, State, Month, Area) to explore data interactively
 
 ## 📌 Project Use Cases
 
-Data Analytics Portfolio Project
+- Data Analytics Portfolio Project
 
-Environmental Data Analysis
+- Environmental Data Analysis
 
-Academic Mini Project
+- Academic Mini Project
 
-Dashboard & Visualization Practice
+- Dashboard & Visualization Practice
 
 👤 Author
 
