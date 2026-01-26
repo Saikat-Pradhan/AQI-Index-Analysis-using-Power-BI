@@ -1,6 +1,6 @@
 # AQI Index Analysis Dashboard
 
-<img src="https://github.com/Saikat-Pradhan/AQI-Index-Analysis-using-Power-BI/blob/main/AQI%20Index%20Analysis%20Dashboard%20Sample%20Picture%20.png" width="" style="border-radius:50%" />
+<img src="https://github.com/Saikat-Pradhan/AQI-Index-Analysis-using-Power-BI/blob/main/AQI%20Index%20Analysis%20Dashboard%20Sample%20Picture%20.png" />
 
 A complete Air Quality Index (AQI) Data Analysis & Visualization Dashboard built using 
 Excel (.xlsx) to analyze air pollution levels across Indian states and cities.
