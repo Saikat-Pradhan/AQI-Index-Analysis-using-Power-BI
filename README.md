@@ -1,5 +1,7 @@
 # AQI Index Analysis Dashboard
 
+<img src="" width="180" style="border-radius:50%" />
+
 A complete Air Quality Index (AQI) Data Analysis & Visualization Dashboard built using 
 Excel (.xlsx) to analyze air pollution levels across Indian states and cities.
 
